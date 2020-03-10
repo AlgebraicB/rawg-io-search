@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rawgioSearch</string>
+    <string name="edit_text_search_query_hint">Search...</string>
+    <string name="go">Search</string>
+</resources>
